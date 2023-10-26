@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\WebApplication3\WebApplication3\bin\Debug\net6.0\publish\WebApplication3.exe
+C:\Users\justi\source\repos\WebApplication3\WebApplication3\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\justi\source\repos\WebApplication3\WebApplication3\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\justi\source\repos\WebApplication3\WebApplication3\bin\Debug\net6.0\publish\WebApplication3.dll
+C:\Users\justi\source\repos\WebApplication3\WebApplication3\bin\Debug\net6.0\publish\WebApplication3.deps.json
+C:\Users\justi\source\repos\WebApplication3\WebApplication3\bin\Debug\net6.0\publish\WebApplication3.runtimeconfig.json
+C:\Users\justi\source\repos\WebApplication3\WebApplication3\bin\Debug\net6.0\publish\WebApplication3.pdb
